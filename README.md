@@ -53,3 +53,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencal20&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+<a href="http://www.github.com/kencal20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencal20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
