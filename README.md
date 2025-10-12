@@ -1,70 +1,96 @@
+<!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#f43f5e;">Kenneth Adjei-Mensah</span> (@kencal20)</h1>
 
-<h3 align="center">🚀 Full Stack Developer • 🛠️ Tech Problem Solver • 🌍 Based in Accra, Ghana</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 Tech Problem Solver | 🌍 Accra, Ghana</h3>
 
 <p align="center">
-  <a href="https://portfolio-g0dd.onrender.com/" target="_blank"><strong>🌐 Visit My Portfolio</strong></a> •
-  <a href="mailto:kenadjei20@gmail.com"><strong>📩 Email Me</strong></a> •
-  <a href="https://www.linkedin.com/in/kenneth-adjei-5b42491b8" target="_blank"><strong>💼 LinkedIn</strong></a>
+  <a href="https://portfolio-g0dd.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:kenadjei20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📩_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kenneth-adjei-mensah-480268377/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Hey! I'm Kenneth, a **self-taught full stack developer** who loves turning ideas into real-world digital experiences. Whether I'm building sleek frontends or scalable backends, I bring a passion for code, design, and performance to everything I work on.
+Hi, I'm **Kenneth**, a self-taught **Full Stack Developer** who’s passionate about creating seamless and efficient digital experiences.  
+From crafting beautiful front-ends to building reliable back-ends — I love turning ideas into working solutions.
 
-- 🌍 Based in Ghana, working remotely worldwide  
-- 🧠 Obsessed with clean code and learning new things  
-- 🎯 Focused on modern web stacks like React, Node.js & Firebase  
-- 🧩 Always up for a challenge or open-source collaboration
+- 🌍 Based in Ghana • Available for remote work worldwide  
+- 💡 Always exploring cutting-edge tools & frameworks  
+- 🧩 Big believer in clean architecture and reusability  
+- ⚡ Constantly learning and improving my craft  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
+</td>
+<td align="center" width="50%">
+  
 ### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,ts" />
 
-### 🧪 Tools & Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,figma,postman" />
-</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  
+### 🧰 Tools & Ecosystem
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma" />
+
+</td>
+<td align="center" width="50%">
+  
+### ☁️ Hosting & DevOps
+<img src="https://skillicons.dev/icons?i=render,vercel,netlify" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Highlights
+## 📈 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kencal20&show_icons=true&theme=radical&hide_border=true&custom_title=My%20GitHub%20Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencal20&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kencal20&theme=radical&hide_border=true" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kencal20&show_icons=true&theme=radical&hide_border=true&custom_title=🔥%20My%20GitHub%20Stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kencal20&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kencal20&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-## 🌱 Current Focus
+## 🚧 Current Focus
 
-- 🚧 Building scalable apps with React + Node.js
-- 🧠 Mastering advanced TypeScript & design patterns
-- 🔍 Diving deeper into performance optimization
-- 🤝 Contributing to open-source & learning in public
+- 🧠 Deepening mastery of **TypeScript** and **React/Next.js architecture**  
+- ⚡ Building scalable apps using **React + Node.js**  
+- 💬 Exploring **Firebase Admin & Authentication systems**  
+- 🤝 Collaborating on open-source projects  
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenneth-adjei-5b42491b8" target="_blank">
+  <a href="https://www.linkedin.com/in/kenneth-adjei-mensah-480268377/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Kenneth_cal20" target="_blank">
@@ -81,9 +107,9 @@ Hey! I'm Kenneth, a **self-taught full stack developer** who loves turning ideas
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kencal20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kencal20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <strong><i>Thanks for stopping by — Let's build something amazing together! 💡</i></strong>
+  <strong><i>✨ Thanks for visiting — let’s build something amazing together!</i></strong>
 </p>
